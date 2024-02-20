@@ -13,17 +13,17 @@ OBS.: Infelizmente a limitação Free na ferramenta não nos permite ir além e 
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Gemini](https://gemini.google.com)** para roteirização;
-~~~
-O que é Machine Learning?
 
-O aprendizado de máquina, ou machine learning, é um ramo da inteligência artificial que permite que computadores aprendam sem serem explicitamente programados. Em vez de seguir instruções passo-a-passo, os sistemas de ML são treinados com grandes conjuntos de dados, permitindo que eles identifiquem padrões e façam previsões por conta própria.
+  O que é Machine Learning?
+  
+  O aprendizado de máquina, ou machine learning, é um ramo da inteligência artificial que permite que computadores aprendam sem serem explicitamente programados. Em vez de seguir instruções passo-a-passo, os sistemas de ML são treinados com grandes conjuntos de dados, permitindo que eles identifiquem padrões e façam previsões por conta própria.
+  
+  Exemplos de aplicações:
+  •	Reconhecimento de imagem: Identificar objetos em fotos e vídeos.
+  •	Recomendação: Sugerir produtos ou serviços que o usuário possa gostar.
+  •	Detecção de fraude: Identificar transações fraudulentas.
+  •	Tradução automática: Traduzir textos de um idioma para outro.
 
-Exemplos de aplicações:
-•	Reconhecimento de imagem: Identificar objetos em fotos e vídeos.
-•	Recomendação: Sugerir produtos ou serviços que o usuário possa gostar.
-•	Detecção de fraude: Identificar transações fraudulentas.
-•	Tradução automática: Traduzir textos de um idioma para outro.
-~~~
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
 
 
